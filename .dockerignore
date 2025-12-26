@@ -1,0 +1,13 @@
+.git
+.venv
+.env
+.claude
+dist
+test
+scripts
+*.lock
+*.egg-info
+__pycache__
+Dockerfile
+docker-compose.yml
+.dockerignore
